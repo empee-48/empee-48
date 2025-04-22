@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @empee-48
-- 👀 I’m interested in ...web design
-- 🌱 I’m currently learning ... software engineering
-- 💞️ I’m looking to collaborate on ... most of my projects hahaha
+- 👀 I’m interested in ...web development
+- 🌱 I’m currently learning ... java
+- 💞️ I’m looking to collaborate on ... most of my projects
 - 📫 How to reach me ...
 - 
 
